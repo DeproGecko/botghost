@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Queue","Made by DeproGecko"];
+const statusMessages = ["discord.gg/aorlisrx","Watching Tickets","Watching Queue","Made by DeproGecko"];
 
 
 let currentIndex = 0;
